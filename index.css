@@ -1,0 +1,314 @@
+.homepage
+{
+    height: 730px;
+    background-image: url(image/vision2.png);
+    background-size: 100% 730px;
+}
+.header
+{
+    width:100%;
+    height: 70px;
+    background-color: #363940;
+
+}
+/* to design logo div */
+.logo
+{
+    width: 50%;
+    height: 70px;
+    padding-top: 16px;
+    float: left;
+   
+}
+.logotext
+{
+    color: aliceblue;
+    text-decoration: none;
+    font-size:30px;
+    padding-left: 250px;
+    font-weight: 600;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.menu
+{
+    width: 50%;
+    height: 70px;
+    float: left;
+    padding-top: 13px;
+
+}   
+.menulist
+{
+    list-style-type: none;
+    padding-bottom: 10px;
+    
+}
+.home
+{
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+
+}
+.home:hover
+{
+    color: white;
+}
+.about
+{
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+
+}
+.about:hover
+{
+    color: white;
+}
+.service
+{
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+
+
+}
+.service:hover
+{
+    color: white;
+}
+.work
+{
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+
+}
+.work:hover
+{
+    color: white;
+}
+
+.team
+{
+
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+}
+.team:hover
+{
+    color: white;
+}
+.contact
+{
+    text-decoration: none;
+    color: rgb(195, 188, 188);
+
+}
+.contact:hover
+{
+    color: white;
+}
+.moto
+{
+    padding-left: 30px;
+    padding-top: 263px;
+    font-size: 39px;
+    color: rgb(39, 149, 232);
+}
+.motopara
+{
+    padding-left: 120px;
+    font-size: 25px;
+    font-weight: 700px;
+    margin-top: -22px;
+    /* padding-top: 150px; */
+}
+.aboutpage
+{
+    height: 738px;
+    padding-top: 10px;
+    background-image: linear-gradient(to left,rgb(200, 202, 204),white);
+}
+.abouthead
+{
+    padding-left: 643px;
+    padding-top: 45px;
+    color: rgb(125, 132, 138);
+}
+.info
+{
+    width: 100%;
+    height: 300px;
+}
+.who
+{
+    width: 25%;
+    height: 300px;
+    float: left;
+    padding-top: 100px;
+}
+.whohead
+{
+    text-align: center;
+    font-family: serif;
+}
+.whopara
+{
+    text-align: center;
+}
+.why
+{
+    padding-top: 100px;
+    height: 300px;
+    width:25%;
+    float: left;
+}
+.whyhead
+{
+    text-align: center;
+    font-family: serif;
+}
+.whypara
+{
+    text-align: center;
+}
+.what
+{
+    padding-top: 100px;
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.whathead
+{
+    text-align: center;
+    font-family: serif;
+}
+.whatpara
+{
+    text-align: center;
+}
+
+.when
+{
+    padding-top: 100px;
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.whenhead
+{
+    text-align: center;
+    font-family: serif;
+}
+.whenpara
+{
+    text-align: center;
+}
+.servicespage
+{
+    padding-top: 10px;
+    height: 738px;
+    background-image: linear-gradient(to left,rgb(200, 202, 204),white);
+}
+.servicehead
+{
+    text-align: center;
+    padding-top: 45px;
+    color: rgb(125, 132, 138);
+}
+.infoser
+{
+    width: 100%;
+    height: 300px;
+}
+.oph
+{
+    padding-top: 100px;
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.ophhead
+{
+    text-align: center;
+    font-family: serif;
+}
+.ophpara
+{
+    text-align: center;
+}
+.ped
+{
+    padding-top: 100px;
+    height: 300px;
+    width:25%;
+    float: left;
+}
+.pedhead
+{
+    text-align: center;
+    font-family: serif;
+}
+.pedpara
+{
+    text-align: center;
+}
+.glu
+{
+    padding-top: 100px;
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.gluhead
+{
+    text-align: center;
+    font-family: serif;
+}
+.glupara
+{
+    text-align: center;
+}
+
+.cont
+{
+    padding-top: 100px;
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.conthead
+{
+    text-align: center;
+    font-family: serif;
+}
+.contpara
+{
+    text-align: center;
+}
+.workpage
+{
+    padding-top: 10px;
+    height: 738px;
+    background-image: linear-gradient(to left,rgb(200, 202, 204),white);
+}
+.workhead
+{
+    padding-left: 643px;
+    padding-top: 45px;
+    color: rgb(125, 132, 138); 
+}
+.worklist
+{
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.teampage
+{
+    height: 738px;
+    background-image: linear-gradient(to left,rgb(200, 202, 204),white);
+}
+.contactpage
+{
+    height: 738px;
+    background-image: linear-gradient(to left,rgb(200, 202, 204),white);
+}
